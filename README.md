@@ -114,6 +114,7 @@ Node.random is null or is pointing to some node in the linked list.
 ## Array
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Yalamurimonish/138/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0496-next-greater-element-i](https://github.com/Yalamurimonish/138/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yalamurimonish/138/tree/master/0907-sum-of-subarray-minimums) |
 ## Hash Table
@@ -146,4 +147,8 @@ Node.random is null or is pointing to some node in the linked list.
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Yalamurimonish/138/tree/master/0402-remove-k-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Yalamurimonish/138/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
