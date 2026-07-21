@@ -120,6 +120,7 @@ Node.random is null or is pointing to some node in the linked list.
 | [0435-non-overlapping-intervals](https://github.com/Yalamurimonish/138/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Yalamurimonish/138/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yalamurimonish/138/tree/master/0907-sum-of-subarray-minimums) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Yalamurimonish/138/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Node.random is null or is pointing to some node in the linked list.
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yalamurimonish/138/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yalamurimonish/138/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Yalamurimonish/138/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Tree
 |  |
 | ------- |
@@ -189,4 +191,8 @@ Node.random is null or is pointing to some node in the linked list.
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yalamurimonish/138/tree/master/3499-maximize-active-section-with-trade-i) |
+## Two Pointers
+|  |
+| ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Yalamurimonish/138/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 <!---LeetCode Topics End-->
