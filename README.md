@@ -110,6 +110,7 @@ Node.random is null or is pointing to some node in the linked list.
 ## Math
 |  |
 | ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Yalamurimonish/138/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yalamurimonish/138/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Yalamurimonish/138/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
@@ -124,6 +125,7 @@ Node.random is null or is pointing to some node in the linked list.
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Yalamurimonish/138/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Yalamurimonish/138/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/Yalamurimonish/138/tree/master/2615-sum-of-distances) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Yalamurimonish/138/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,6 +169,7 @@ Node.random is null or is pointing to some node in the linked list.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yalamurimonish/138/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yalamurimonish/138/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Yalamurimonish/138/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Yalamurimonish/138/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Tree
 |  |
 | ------- |
@@ -194,6 +197,7 @@ Node.random is null or is pointing to some node in the linked list.
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Yalamurimonish/138/tree/master/0435-non-overlapping-intervals) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Yalamurimonish/138/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Enumeration
 |  |
 | ------- |
@@ -214,4 +218,8 @@ Node.random is null or is pointing to some node in the linked list.
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/Yalamurimonish/138/tree/master/2833-furthest-point-from-origin) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Yalamurimonish/138/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
