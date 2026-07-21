@@ -122,6 +122,7 @@ Node.random is null or is pointing to some node in the linked list.
 | [0907-sum-of-subarray-minimums](https://github.com/Yalamurimonish/138/tree/master/0907-sum-of-subarray-minimums) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Yalamurimonish/138/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Yalamurimonish/138/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Yalamurimonish/138/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@ Node.random is null or is pointing to some node in the linked list.
 | ------- |
 | [0402-remove-k-digits](https://github.com/Yalamurimonish/138/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/Yalamurimonish/138/tree/master/1021-remove-outermost-parentheses) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Yalamurimonish/138/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yalamurimonish/138/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
@@ -197,4 +199,8 @@ Node.random is null or is pointing to some node in the linked list.
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Yalamurimonish/138/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Yalamurimonish/138/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
