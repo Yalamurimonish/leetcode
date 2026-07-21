@@ -121,6 +121,7 @@ Node.random is null or is pointing to some node in the linked list.
 | [0435-non-overlapping-intervals](https://github.com/Yalamurimonish/138/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Yalamurimonish/138/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yalamurimonish/138/tree/master/0907-sum-of-subarray-minimums) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Yalamurimonish/138/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Yalamurimonish/138/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Yalamurimonish/138/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Yalamurimonish/138/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -181,12 +182,14 @@ Node.random is null or is pointing to some node in the linked list.
 | ------- |
 | [0100-same-tree](https://github.com/Yalamurimonish/138/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Yalamurimonish/138/tree/master/0101-symmetric-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Yalamurimonish/138/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Yalamurimonish/138/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Yalamurimonish/138/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yalamurimonish/138/tree/master/0102-binary-tree-level-order-traversal) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Yalamurimonish/138/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -222,4 +225,12 @@ Node.random is null or is pointing to some node in the linked list.
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Yalamurimonish/138/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Union-Find
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Yalamurimonish/138/tree/master/1559-detect-cycles-in-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Yalamurimonish/138/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
