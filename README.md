@@ -123,10 +123,12 @@ Node.random is null or is pointing to some node in the linked list.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Yalamurimonish/138/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Yalamurimonish/138/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Yalamurimonish/138/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2615-sum-of-distances](https://github.com/Yalamurimonish/138/tree/master/2615-sum-of-distances) |
 ## Hash Table
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Yalamurimonish/138/tree/master/0496-next-greater-element-i) |
+| [2615-sum-of-distances](https://github.com/Yalamurimonish/138/tree/master/2615-sum-of-distances) |
 ## Stack
 |  |
 | ------- |
@@ -203,4 +205,8 @@ Node.random is null or is pointing to some node in the linked list.
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Yalamurimonish/138/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Prefix Sum
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/Yalamurimonish/138/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
