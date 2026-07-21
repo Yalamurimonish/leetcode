@@ -153,6 +153,7 @@ Node.random is null or is pointing to some node in the linked list.
 | [0402-remove-k-digits](https://github.com/Yalamurimonish/138/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/Yalamurimonish/138/tree/master/1021-remove-outermost-parentheses) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Yalamurimonish/138/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2833-furthest-point-from-origin](https://github.com/Yalamurimonish/138/tree/master/2833-furthest-point-from-origin) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yalamurimonish/138/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
@@ -209,4 +210,8 @@ Node.random is null or is pointing to some node in the linked list.
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/Yalamurimonish/138/tree/master/2615-sum-of-distances) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/Yalamurimonish/138/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
