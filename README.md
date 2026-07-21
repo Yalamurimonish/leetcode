@@ -146,6 +146,7 @@ Node.random is null or is pointing to some node in the linked list.
 | ------- |
 | [0402-remove-k-digits](https://github.com/Yalamurimonish/138/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/Yalamurimonish/138/tree/master/1021-remove-outermost-parentheses) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Yalamurimonish/138/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
 | ------- |
@@ -183,4 +184,8 @@ Node.random is null or is pointing to some node in the linked list.
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Yalamurimonish/138/tree/master/0435-non-overlapping-intervals) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Yalamurimonish/138/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
