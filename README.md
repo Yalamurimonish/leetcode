@@ -111,6 +111,7 @@ Node.random is null or is pointing to some node in the linked list.
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Yalamurimonish/138/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Yalamurimonish/138/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yalamurimonish/138/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Yalamurimonish/138/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
@@ -131,6 +132,7 @@ Node.random is null or is pointing to some node in the linked list.
 | [2615-sum-of-distances](https://github.com/Yalamurimonish/138/tree/master/2615-sum-of-distances) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Yalamurimonish/138/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Yalamurimonish/138/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Yalamurimonish/138/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -253,4 +255,8 @@ Node.random is null or is pointing to some node in the linked list.
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Yalamurimonish/138/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Yalamurimonish/138/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
