@@ -119,6 +119,7 @@ Node.random is null or is pointing to some node in the linked list.
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yalamurimonish/138/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0120-triangle](https://github.com/Yalamurimonish/138/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Yalamurimonish/138/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yalamurimonish/138/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/Yalamurimonish/138/tree/master/0435-non-overlapping-intervals) |
@@ -156,6 +157,7 @@ Node.random is null or is pointing to some node in the linked list.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/Yalamurimonish/138/tree/master/0120-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/Yalamurimonish/138/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yalamurimonish/138/tree/master/0907-sum-of-subarray-minimums) |
 ## String
