@@ -112,6 +112,7 @@ Node.random is null or is pointing to some node in the linked list.
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Yalamurimonish/138/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yalamurimonish/138/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Yalamurimonish/138/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yalamurimonish/138/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Yalamurimonish/138/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
@@ -133,6 +134,7 @@ Node.random is null or is pointing to some node in the linked list.
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Yalamurimonish/138/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Yalamurimonish/138/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yalamurimonish/138/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Yalamurimonish/138/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,6 +220,7 @@ Node.random is null or is pointing to some node in the linked list.
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yalamurimonish/138/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Yalamurimonish/138/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -259,4 +262,5 @@ Node.random is null or is pointing to some node in the linked list.
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yalamurimonish/138/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Yalamurimonish/138/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
