@@ -137,6 +137,7 @@ Node.random is null or is pointing to some node in the linked list.
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Yalamurimonish/138/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yalamurimonish/138/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Yalamurimonish/138/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3693-climbing-stairs-ii](https://github.com/Yalamurimonish/138/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@ Node.random is null or is pointing to some node in the linked list.
 | [0198-house-robber](https://github.com/Yalamurimonish/138/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Yalamurimonish/138/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yalamurimonish/138/tree/master/0907-sum-of-subarray-minimums) |
+| [3693-climbing-stairs-ii](https://github.com/Yalamurimonish/138/tree/master/3693-climbing-stairs-ii) |
 ## String
 |  |
 | ------- |
